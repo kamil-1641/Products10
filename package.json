@@ -1,5 +1,5 @@
 {
-  "name": "Energy_Efficient_Computing",
-  "description": "Reduce your power bill by using optimized code which enables reduced power consumption by eliminating redundant steps in your programs.",
-  "version": "3.10.1"
+  "name": "P-Addic_Calculation_Library",
+  "description": "Library for calculations and proofs with the use of p-addic numbers.",
+  "version": "4.10.1"
 }
