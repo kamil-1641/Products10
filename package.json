@@ -1,5 +1,5 @@
 {
-  "name": "P-Addic_Calculation_Library",
-  "description": "Library for calculations and proofs with the use of p-addic numbers.",
-  "version": "4.10.1"
+  "name": "Differential_Equation_Solver",
+  "description": "Extract functions from differential equations.",
+  "version": "5.10.1"
 }
